@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ai.studio)",
+      "WebFetch(domain:aistudio.google.com)",
+      "Bash(npm -v)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(node -p \"process.arch\")",
+      "Bash(node -p \"process.platform\")",
+      "Bash(cmd /c \"node -v && node -p process.arch\")",
+      "Bash(cmd /c \"where node\")",
+      "Read(//c/Program Files/nodejs/**)",
+      "Read(//c/Program Files \\(x86\\)/**)",
+      "Bash(cmd /c \"C:\\\\Program Files\\\\nodejs\\\\npm.cmd\" config get prefix)"
+    ]
+  }
+}

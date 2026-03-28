@@ -1,0 +1,7 @@
+{
+  "name": "The Clinical Investigator",
+  "description": "Professional portfolio for a Medical Data Analyst and FWA Specialist, featuring forensic data investigations and clinical insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
